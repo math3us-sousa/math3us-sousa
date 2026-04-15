@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=8000&color=BADAEC&width=435&lines=Bem+vindos+ao+meu+perfil!+(%C9%94%E2%97%94%E2%80%BF%E2%97%94)%C9%94+%E2%99%A5" alt="Typing SVG">
+</a>
 
-<!--
-**math3us-sousa/math3us-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+<p align="center">Estudante de Ciência da Computação na UFT (Universidade Federal do Tocantins)
+  
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sousa.matheus13.sousa@gmail.com)
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F4RFALLA/F4RFALLA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F4RFALLA/F4RFALLA/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/F4RFALLA/F4RFALLA/output/github-contribution-grid-snake.svg">
+</picture>
